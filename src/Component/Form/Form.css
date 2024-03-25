@@ -1,0 +1,33 @@
+input{
+    width:200px;
+    margin:10px;
+    height:20px;
+    padding:10px;
+   
+}
+
+label{
+    font-size: 20px;
+    padding-right: 20px;
+    border: 0px solid red;
+   
+}
+
+.formp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#subbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: rgb(214, 164, 214);
+}
+
